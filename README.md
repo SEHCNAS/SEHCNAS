@@ -1,5 +1,4 @@
 ## 👋 Olá, eu sou o Gabriel!
-- 🌱 Estudando: Python
 
 
 <!---
